@@ -1,0 +1,11 @@
+body{
+	background-color:pink;
+    color:white;
+    font-family: "Lucida Console", "Courier New", monospace;
+
+}
+
+button{
+	color:pink;
+    background-color:white;
+}
